@@ -35,10 +35,3 @@ Testes de conectividade e instalação de software básico.
 Documentação do processo e captura de telas para evidência.
 
 Envio do projeto com arquivo README.md e pastas de imagens.
-
-Recursos Adicionais
-Criar uma máquina virtual do Windows no Portal do Azure - Microsoft Learn
-
-Documentação oficial do Azure
-
-Guia rápido do GitHub
