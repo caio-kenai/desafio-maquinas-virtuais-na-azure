@@ -1,6 +1,6 @@
 # Desafio: Máquinas Virtuais na Azure
 
-Introdução
+Introdução:
 Este repositório documenta o desenvolvimento do desafio prático sobre criação e gerenciamento de máquinas virtuais na plataforma Microsoft Azure, realizado na DIO.
 
 Objetivos do Desafio
